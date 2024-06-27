@@ -38,7 +38,7 @@ else
 window.alert('Invalid username and password')
 window.location.href='loginn.php'
 </script> ");
-exit(); 
+exit();
 }
 
 
